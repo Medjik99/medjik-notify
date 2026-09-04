@@ -60,4 +60,10 @@ MEDJIK
 
 Clean design. Simple integration. Built for FiveM.
 
-https://medjik-development.tebex.io/
+## 🛒 MEDJIK Store
+
+Looking for more MEDJIK resources?
+
+Check out our FiveM resources on the official MEDJIK Tebex Store:
+
+**[Visit MEDJIK Store](https://medjik-development.tebex.io/)**
