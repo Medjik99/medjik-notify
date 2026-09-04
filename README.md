@@ -59,3 +59,5 @@ It's part of the MEDJIK ecosystem and can also be used independently in your own
 MEDJIK
 
 Clean design. Simple integration. Built for FiveM.
+
+https://medjik-development.tebex.io/
