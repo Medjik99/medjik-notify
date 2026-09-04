@@ -1,5 +1,3 @@
-MEDJIK Notify
-
 MEDJIK Notify is a free, modern and standalone notification system built for FiveM servers.
 
 Designed with a clean and premium interface, MEDJIK Notify provides developers with a simple way to display notifications while remaining completely framework-independent.
